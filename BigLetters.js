@@ -118,7 +118,7 @@ function print_big_word ( given_word )
 
 print_big_letter( 'C' ) ;
 print_big_letter( 'A' ) ;
-print_big_letter( 'D' ) ;
+print_big_letter( 'A' ) ;
 print_big_letter( 'E' ) ;
 print_big_wide_letter( 'A' )
 print_big_word ( 'ABAB')
